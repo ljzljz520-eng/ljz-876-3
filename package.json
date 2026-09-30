@@ -1,0 +1,11 @@
+{
+  "name": "sanji-exam-system",
+  "version": "1.0.0",
+  "description": "医院三基考试管理系统 - 护理部发布科室考试，按岗位分题库，成绩入培训档案，缺考转补考，主观题科室批阅，院级看汇总与薄弱知识点",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "engines": { "node": ">=18" }
+}
